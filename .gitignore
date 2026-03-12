@@ -1,0 +1,6 @@
+.env
+.env.local
+.release
+bin/
+dist/
+coverage/

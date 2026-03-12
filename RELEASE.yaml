@@ -1,0 +1,11 @@
+name: identitykeycloak
+module: github.com/BHRK-codelabs/identitykeycloak
+type: adapter
+status: incubating
+initial_version: v0.1.0
+repo_name: identitykeycloak
+tag_prefix: v
+publish: true
+dependencies:
+  - github.com/BHRK-codelabs/corekit
+  - github.com/BHRK-codelabs/identitykit
